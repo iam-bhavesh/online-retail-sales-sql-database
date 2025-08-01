@@ -39,4 +39,25 @@ Relationships:
 - Identify products with low stock levels.
 
 ## Project Structure
+online-retail-sales-sql-database/
+│
+├── README.md
+├── schema.sql # Database schema creation scripts
+├── insert_sample_data.sql # Sample data insertion scripts
+├── query_examples.sql # Sample queries for analysis
+├── data/ # (Optional) CSV or sample files
+└── images/ # (Optional) ER diagrams or screenshots
+
+## Expansion Ideas
+- Add stored procedures and triggers for inventory updates.
+- Develop a simple web API to interact with the database.
+- Integrate data visualization dashboards using tools like Power BI or Tableau.
+- Implement user authentication to simulate real e-commerce application behavior.
+
+## Contact
+For questions or collaboration, please contact: [Your Name] at [Your Email or LinkedIn]
+
+---
+
+Thank you for checking out this project! Feel free to explore the SQL scripts and modify them for your learning or practical use.
 
